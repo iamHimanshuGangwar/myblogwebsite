@@ -197,4 +197,4 @@ If you want, I can also:
 - Add a quickstart script to install & run both client and server with one command
 - Update README badges, screenshots, or a short demo GIF (you can provide assets)
 
-Tell me which you'd like next.
+Tell me which you'd like next. 
